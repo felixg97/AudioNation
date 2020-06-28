@@ -1,0 +1,44 @@
+# Sources of Audio files by name in ./Assets/Audio
+
+## city-sounds.wav
+
+https://freesound.org/people/rucisko/sounds/462494/
+
+## electric-generator.wav
+
+https://freesound.org/people/paulw2k/sounds/244420/
+
+## semi-light-rain.wav
+
+https://freesound.org/people/idomusics/sounds/518863/
+
+## footsteps-grass.wav
+
+https://freesound.org/people/freefire66/sounds/175955/
+
+## footsteps-street.wav
+
+https://freesound.org/people/Maurice_J_K/sounds/352723/
+
+## gravel
+
+right: https://freesound.org/people/Ali_6868/sounds/384876/
+left: https://freesound.org/people/Ali_6868/sounds/384873/
+
+## bird 
+
+https://freesound.org/people/inchadney/sounds/148643/
+
+## air-conditioner.wav
+
+## dog-bark
+
+https://freesound.org/people/Juan_Merie_Venter/sounds/327666/
+
+## chicken
+
+https://freesound.org/people/dersuperanton/sounds/435882/
+
+## new steps
+
+https://www.fesliyanstudios.com/royalty-free-sound-effects-download/footsteps-31
